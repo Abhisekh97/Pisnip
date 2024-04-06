@@ -1,10 +1,10 @@
-#Snipping Tool in Python using PyQt5 library
+# Snipping Tool in Python using PyQt5 library
 
-#Description
+# Description
 It is a very basic screen capturing tool build just like windows snipping tool
 using mouse cursor and you can save image.
 
-#How to run 
+# How to run 
 
 clone the repository 
 install PyQt5 lib using pip install
